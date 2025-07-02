@@ -1,0 +1,38 @@
+.new {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+   color:yellow;
+    background-color:pink;
+    height: 80px;
+    width: 80px;
+    margin-top: 0;
+
+}
+
+.hate {
+    display: flex;
+    gap:20px;
+    color:white
+}
+
+.new{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: white;
+}
+
+.neha {
+        background-color: green;
+        color: white;
+}
+h1 {
+    text-align: center;
+    justify-content: center;
+}
+.v1 {
+    color: black;
+}
